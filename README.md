@@ -7,13 +7,13 @@ Este é um aplicativo Java simples que efetua a conversão de algumas moedas uti
 
 # Funcionalidades
 
-Converta entre vários pares de moedas:
-Converter Real(BRL) para Dólar(USD)
-Converter Dólar(USD) para Real(BRL)
-Converter Real(BRL)para Euro(EUR)
-Converter Euro(EUR) para Real(BRL)
-Converter Real(BRL) para Libra(GBP)
-Converter Libra(GBP) para Real(BRL)
+- Converta entre vários pares de moedas:
+- Converter Real(BRL) para Dólar(USD)
+- Converter Dólar(USD) para Real(BRL)
+- Converter Real(BRL)para Euro(EUR)
+- Converter Euro(EUR) para Real(BRL)
+- Converter Real(BRL) para Libra(GBP)
+- Converter Libra(GBP) para Real(BRL)
 
 # Pré-requisitos
 
